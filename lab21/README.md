@@ -1,5 +1,6 @@
  ```bash
 git clone https://github.com/devopsgodhrehouma/rehoumaaws.git
+cd rehoumaaws
 cd lab21
 python3 manage_s3_buckets.py
  ```
