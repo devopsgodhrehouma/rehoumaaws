@@ -1,3 +1,3 @@
 - git clone https://github.com/devopsgodhrehouma/rehoumaaws.git
 - cd lab21
-- python3 
+- python3 manage_s3_buckets.py
