@@ -7,6 +7,20 @@ python3 manage_s3_buckets.py
 
 # Description
 
+00-script-du-lab-list_buckets.py
+01-commandes-du-lab.md
+02-tuto-commandes2-python-autoriser-all.md
+02-tuto-commandes2-python-autorise…
+03-script-manage_s3_buckets_pour_all_universel.py
+03-script-manage_s3_buck…
+03-script-manage_s3_buckets_pour_index.py
+03-script-manage_s3_buckets_pour_index.py
+04-script-manage_s3_buckets_pour_all_universel.sh
+05-script-manage_s3_buckets_pour_all_universel.sh t…
+04-tuto-commandes2-shell-autoriser-all.md
+04-tuto-commandes2-shell-autoriser-…
+	
+
 
 ---
 
