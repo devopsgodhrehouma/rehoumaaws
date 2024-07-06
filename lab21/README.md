@@ -1,2 +1,3 @@
-git clone <URL_DU_DEPOT>
-cd <NOM_DU_DEPOT>
+- git clone https://github.com/devopsgodhrehouma/rehoumaaws.git
+- cd lab21
+- python3 
