@@ -6,7 +6,6 @@ python3 manage_s3_buckets.py
 
 
 
-Voici un exemple de README pour utiliser le script Python :
 
 ---
 
