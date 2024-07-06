@@ -1,12 +1,13 @@
 # Partie 0
 
+```bash
 aws s3api put-bucket-ownership-controls --bucket c84968a181123514814882tlw66503827742-samplebucket-ywp0aj41j5eo --ownership-controls 'Rules=[{ObjectOwnership=BucketOwnerPreferred}]'
 
 aws s3api put-public-access-block --bucket <bucket-name> --public-access-block-configuration "BlockPublicAcls=false,IgnorePublicAcls=false,BlockPublicPolicy=false,RestrictPublicBuckets=false"
 
 aws s3api put-object-acl --bucket <bucket-name> --key index.html --acl public-read
 
-
+```
 
 # Partie 1
 
