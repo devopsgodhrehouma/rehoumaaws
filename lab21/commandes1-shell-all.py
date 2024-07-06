@@ -1,5 +1,3 @@
-Oui, vous pouvez transformer ce script Python en script shell pour autoriser tous les accès sur tous les objets dans chaque bucket et récupérer les noms automatiquement. Voici un script shell pour ce faire :
-
 ```sh
 #!/bin/bash
 
