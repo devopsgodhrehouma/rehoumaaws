@@ -116,10 +116,4 @@ Avant d'utiliser ce script, assurez-vous d'avoir les éléments suivants install
 - Assurez-vous d'avoir les permissions nécessaires pour accéder et modifier les buckets S3 spécifiés.
 - Modifiez le script selon vos besoins, par exemple, en changeant le nom de l'objet dans la commande `put-object-acl`.
 
-## Support
 
-Pour toute question ou problème, veuillez ouvrir une issue dans le dépôt ou contacter le mainteneur du projet.
-
----
-
-En suivant ce guide, vous devriez pouvoir configurer et exécuter le script pour gérer vos buckets S3 automatiquement.
